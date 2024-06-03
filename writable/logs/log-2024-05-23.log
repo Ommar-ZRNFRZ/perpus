@@ -1,0 +1,191 @@
+CRITICAL - 2024-05-23 06:41:57 --> ErrorException: Cannot redeclare App\Controllers\dashboard::main()
+[Method: GET, Route: dashboard]
+in APPPATH\Controllers\dashboard.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-23 07:09:03 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:10:05 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:10:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:12:04 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:13:57 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:14:02 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:15:46 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:18:01 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:20:16 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:20:21 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:20:22 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:20:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:20:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:21:01 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:21:31 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 07:41:37 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')
+CRITICAL - 2024-05-23 08:06:52 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "swiper@7"
+[Method: GET, Route: https:/unpkg.com/swiper@7/swiper-bundle.min.css]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('https:/unpkg.com/swiper@7/swiper-bundle.min.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\perpusatakaan_CI4\\public\\index.php')

@@ -8,4 +8,8 @@ class Masuk extends BaseController
     {
          return view('masuk');
     }
+    public function daftar()
+    {
+         return view('daftar');
+    }
 }
